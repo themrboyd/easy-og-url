@@ -46,11 +46,13 @@ For help, please open an issue on the [GitHub repository](https://github.com/the
 
 Contributions are welcome! Feel free to submit a Pull Request.
 
-## Donate
+## Support the Development
 
 If you find this plugin useful, consider supporting its development:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/boyduang)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/boydduang)
 
 ## License
 
@@ -60,5 +62,6 @@ This project is licensed under the GPL-2.0+ License.
 
 Boyd Duang
 - GitHub: [https://github.com/themrboyd](https://github.com/themrboyd)
-- Donate: [https://ko-fi.com/boyduang](https://ko-fi.com/boyduang)
+- Ko-fi: [https://ko-fi.com/boyduang](https://ko-fi.com/boyduang)
+- Buy Me a Coffee: [https://buymeacoffee.com/boyduang](https://buymeacoffee.com/boyduang)
 
