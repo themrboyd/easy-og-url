@@ -6,7 +6,7 @@ Description: Easily manage og:url for Facebook sharing. Compatible with Facebook
 Version: 1.0
 Author: Boyd Duang
 Author URI: https://github.com/themrboyd
-Donate link: https://ko-fi.com/boyduang
+Donate link: https://ko-fi.com/boyduang, https://buymeacoffee.com/boydduang
 */
 
 // Function to set og:url
