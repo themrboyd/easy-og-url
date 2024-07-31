@@ -27,8 +27,6 @@ Easy OG URL is a simple WordPress plugin that makes managing the og:url meta tag
 3. Enter your base URL in the "Base URL" field.
 4. Click "Save Changes".
 
-
-
 ## Important Notes
 
 - After changing settings, clear Facebook's cache using the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/).
@@ -48,6 +46,12 @@ For help, please open an issue on the [GitHub repository](https://github.com/the
 
 Contributions are welcome! Feel free to submit a Pull Request.
 
+## Donate
+
+If you find this plugin useful, consider supporting its development:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/boyduang)
+
 ## License
 
 This project is licensed under the GPL-2.0+ License.
@@ -56,3 +60,5 @@ This project is licensed under the GPL-2.0+ License.
 
 Boyd Duang
 - GitHub: [https://github.com/themrboyd](https://github.com/themrboyd)
+- Donate: [https://ko-fi.com/boyduang](https://ko-fi.com/boyduang)
+
