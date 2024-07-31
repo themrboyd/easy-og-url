@@ -9,6 +9,10 @@ Easy OG URL is a simple WordPress plugin that makes managing the og:url meta tag
 - Override og:url settings from other plugins, including Yoast SEO
 - Simple settings page in WordPress admin
 
+## Screenshot
+
+![Easy OG URL Settings](assets/easy-og-url-settings.png)
+
 ## Installation
 
 1. Download the Easy OG URL zip file.
@@ -22,6 +26,8 @@ Easy OG URL is a simple WordPress plugin that makes managing the og:url meta tag
 2. Check "Enable Easy OG URL" to activate.
 3. Enter your base URL in the "Base URL" field.
 4. Click "Save Changes".
+
+
 
 ## Important Notes
 
